@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=200&section=header&text=Hadel%20Berawi&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Hadel%20Berawi&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3200\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Frontend+Developer;Laravel+%26+Next.js+Developer;Building+Modern+and+Responsive+Web+Apps;Passionate+About+UI%2FUX+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3200\&pause=1000\&color=6a0dad\&center=true\&vCenter=true\&width=750\&lines=Frontend+Developer;Laravel+%26+Next.js+Developer;Building+Modern+and+Responsive+Web+Apps;Passionate+About+UI%2FUX+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,4 +47,4 @@ Currently focused on improving my frontend and full stack development skills usi
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer" />
