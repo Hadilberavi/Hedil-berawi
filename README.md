@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=200&section=header&text=Hadel%20Berawi&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=650&lines=Frontend+Developer;Automation+Engineer;Construyendo+interfaces+%26+flujos+con+IA;Desde+Bucaramanga%2C+Colombia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3200\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Frontend+Developer;Laravel+%26+Next.js+Developer;Building+Modern+and+Responsive+Web+Apps;Passionate+About+UI%2FUX+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,8 +44,6 @@ Currently focused on improving my frontend and full stack development skills usi
 </div>
 
 ---
-
-<img src="https://img.shields.io/badge/📍_Bucaramanga,_Colombia-1a1a1a?style=for-the-badge" />
 
 </div>
 
