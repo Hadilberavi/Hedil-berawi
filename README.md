@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=200&section=header&text=Joel%20Fayad&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=200&section=header&text=Hadel%20Berawi&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=650&lines=Frontend+Developer;Automation+Engineer;Construyendo+interfaces+%26+flujos+con+IA;Desde+Bucaramanga%2C+Colombia)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=zappytw&label=Visitas+al+perfil&color=FFD93D&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/zappytw?label=Seguidores&color=FFD93D&style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/Estado-Disponible-FFD93D?style=for-the-badge" />
 
 </div>
 
