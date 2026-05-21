@@ -2,7 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Hadel%20Berawi&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3200\&pause=1000\&color=ffffff\&center=true\&vCenter=true\&width=750\&lines=Frontend+Developer;Laravel+%26+Next.js+Developer;Building+Modern+and+Responsive+Web+Apps;Passionate+About+UI%2FUX+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3200\&pause=1000\&color=ffffff\&center=true\&vCenter=true\&width=850\&lines=💻+Frontend+Developer;🚀+Laravel+%26+Next.js+Developer;✨+Building+Modern+and+Responsive+Web+Apps;🎨+Passionate+About+UI%2FUX+Design)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -33,10 +34,10 @@ Currently focused on improving my frontend and full stack development skills usi
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 ####  Backend
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-FFD93D?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Webhooks-1a1a1a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Authentication-38BDF8?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 #### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
